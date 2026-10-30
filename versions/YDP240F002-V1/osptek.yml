@@ -1,0 +1,10 @@
+id: YDP240F002-V1
+category: displays
+size: "2.4"
+panel: tft
+resolution: 240x320
+interface: [spi]
+driver: ILI9341V
+touch: null
+outline: 42.72 x 60.26 x 2.20 mm
+active_area: 36.72 x 48.96 mm

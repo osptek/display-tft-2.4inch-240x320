@@ -1,0 +1,10 @@
+id: YDP240F007-V1
+category: displays
+size: "2.4"
+panel: tft
+resolution: 240x320
+interface: [mcu]
+driver: ST7789
+touch: null
+outline: 42.72 x 60.26 x 2.20 mm
+active_area: 36.72 x 48.96 mm
